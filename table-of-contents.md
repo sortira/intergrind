@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Table of Contents"
 permalink: /table-of-contents
+---
 
 # 📘 Intergrind by sortira - Table of Contents
 
