@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Table of Contents"
 permalink: /table-of-contents
 ---
@@ -10,6 +10,6 @@ permalink: /table-of-contents
 
 Greedy algorithm based problems.
 
-- [11. Container with Most Water](/greedy/container-with-most-water)
+- [11. Container with Most Water](intergrind/greedy/container-with-most-water)
 
 

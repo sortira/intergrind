@@ -8,7 +8,7 @@ Whether it's an algorithm I cracked at midnight, a concept I struggled with for 
 
 ## Table of Contents
 
-[Here](/table-of-contents) is the page which contains all the problems.
+[Here](intergrind/table-of-contents) is the page which contains all the problems.
 
 ---
 
