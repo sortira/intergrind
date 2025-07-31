@@ -10,6 +10,6 @@ permalink: /table-of-contents
 
 Greedy algorithm based problems.
 
-- [11. Container with Most Water](/greedy/container-with-most-water)
+- [11. Container with Most Water](https://sortira.github.io/intergrind/greedy/container-with-most-water)
 
 
