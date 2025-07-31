@@ -6,6 +6,12 @@ Whether it's an algorithm I cracked at midnight, a concept I struggled with for 
 
 ---
 
+## Table of Contents
+
+[Here](/table-of-contents) is the page which contains all the problems.
+
+---
+
 ## 📂 What's Inside?
 
 Tag-wise clustered problems, each with it's own solution page.
