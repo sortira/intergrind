@@ -1,0 +1,5 @@
+title: Intergrind by Sortira
+description: A repository containing programs, solutions to topical problems and possibly Codeforces problems including my voice notes. Only meant for my understanding.
+remote_theme: pages-themes/leap-day@v0.2.0
+plugins:
+- jekyll-remote-theme
