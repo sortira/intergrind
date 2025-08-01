@@ -6,6 +6,8 @@ permalink: /greedy/container-with-most-water
 
 # 11. Container With Most Water
 
+Difficulty: **Medium**
+
 [Link to the problem in Leetcode](https://leetcode.com/problems/container-with-most-water/description/?envType=problem-list-v2&envId=greedy)
 
 ## Problem Statement as is from Leetcode 
@@ -73,3 +75,7 @@ class Solution(object):
                 right = right - 1
         return maxvol
 ```
+
+## Tags
+
+Greedy, Two Pointers
