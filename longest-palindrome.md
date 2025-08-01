@@ -33,7 +33,7 @@ Explanation: The longest palindrome that can be built is "a", whose length is 1.
 
 ## Explanation
 
-or every character that we encounter in the string having even frequency, no problem using it to construct the palindrome. This is trivial to understand, as even frequency means we can choose 2 positions and place it on each of them — one on the left and one on the right, preserving the symmetry.
+For every character that we encounter in the string having even frequency, no problem using it to construct the palindrome. This is trivial to understand, as even frequency means we can choose 2 positions and place it on each of them — one on the left and one on the right, preserving the symmetry.
 
 The consideration arises when a character has odd frequency. For characters with odd frequency:
 
